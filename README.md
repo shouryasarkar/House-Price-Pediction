@@ -28,13 +28,13 @@ The "House Price Detection" project is a machine learning project aimed at predi
 * # Documentation:
   Comprehensive documentation covering project details, data sources, methodology, and usage instructions.
 
-# Getting Started[housing.csv](https://github.com/shouryasarkar/House-Price-Pediction/files/12716739/housing.csv)
+# Getting Started
 
 * # Clone the Repository:
   Clone this repository to your local machine.
   ```git clone https://github.com/your-username/house-price-detection.git```
   
-* # Install Dependencies:[housing.csv](https://github.com/shouryasarkar/House-Price-Pediction/files/12716737/housing.csv)
+* # Install Dependencies:
 
   Install the required Python libraries and packages.
   
